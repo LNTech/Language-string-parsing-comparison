@@ -8,7 +8,7 @@ All scripts have the same goal:
 * Read from text file, parse delimited text (i.e. split it into 2 strings), and store in array/list etc.
 * Measure times
 
-Currently only features 2 scripts (GO, Python) with raw GO being the fastest of the two, I attempted compiling the GO script and it actually ran about .3 of a second slower but that could just be a coincidence.
+Currently only features 2 scripts (GO, Python) with raw GO being the fastest of the two, I attempted compiling the GO script and it actually ran about .3 of a second slower but that could just be a coincidence. You could probably get GO to work even faster if you know it better than I do
 
 Tested on:
 * CL16 3200MHZ DDR4 Ram
