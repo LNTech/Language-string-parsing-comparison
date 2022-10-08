@@ -23,3 +23,9 @@ Tested on:
 <br>
 
 <a href="https://docs.google.com/spreadsheets/d/1_zwmvHEZuWztUtsCrzLk5l4cBDo2NCoJqucmeOkOoKM/edit?usp=sharing">Spreadsheet for data fun</a>
+
+---
+## Languages to add
+* Ruby
+* C#
+* Node
